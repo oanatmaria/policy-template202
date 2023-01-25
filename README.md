@@ -1,1 +1,5 @@
-# policy-template202
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
